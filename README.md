@@ -1,5 +1,6 @@
 👋 Hey, I’m Otávio (Tavinho)
-About me
+
+About me:
 
 🔭 I’m currently a Computer Science and Digitalization student at Berlin School of Business and Innovation
 
